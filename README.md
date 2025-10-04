@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data scientist and AI from Jordan</h3>
 
 - 📫 How to reach me **osamaensa@gmail.com**
 
